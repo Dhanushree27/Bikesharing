@@ -3,7 +3,7 @@
 ## Overview
 This project was undertaken with the intention to develop a dashboard on Tableau to visualize how ride-sharing works in NYC. A Tableau story containing four story points for analysis was developed and published on the Tableau server. The story utilizes data from the month of August downloaded from the citibike page. August was considered since it a popular summer month, which might contribute to higher bike usage. The story can be accessed via the below link:
 
-[NYC Citibike Usage Story](https://public.tableau.com/app/profile/dhanushree/viz/CitiBikeUsage_Challenge/Story1?publish=yes)
+**Link to Dashboard:** [NYC Citibike Usage Story](https://public.tableau.com/app/profile/dhanushree/viz/CitiBikeUsage_Challenge/Story1?publish=yes)
 
 The dashboard can be used to understand:
 - The hourly distribution of bike rentals
